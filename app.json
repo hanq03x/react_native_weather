@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Making a weather application with React Native and expo",
+    "githubUrl": "https://github.com/hanqpark/react_native_weather"
   }
 }
